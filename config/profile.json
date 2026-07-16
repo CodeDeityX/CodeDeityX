@@ -1,0 +1,68 @@
+{
+    "schemaVersion":  1,
+    "profile":  {
+                    "fullName":  "Aldo Israel Hernandez",
+                    "username":  "CodeDeityX",
+                    "email":  "israelhernandezpin@gmail.com",
+                    "location":  "Mexico",
+                    "availability":  "Available immediately",
+                    "languages":  [
+                                      "English",
+                                      "Spanish"
+                                  ]
+                },
+    "branding":  {
+                     "primaryTitle":  "AI-Assisted Technical Operations",
+                     "specialties":  [
+                                         "AI Evaluation",
+                                         "Quality Assurance",
+                                         "Pre-Execution Governance"
+                                     ],
+                     "tagline":  "Building disciplined, evidence-backed workflows for frontier AI systems.",
+                     "motto":  "Verification before execution. Evidence before claims.",
+                     "bannerMotto":  "VERIFY BEFORE EXECUTE"
+                 },
+    "education":  {
+                      "program":  "52-Week AI Engineering Bootcamp",
+                      "status":  "In Progress"
+                  },
+    "organization":  {
+                         "name":  "Verify with AION",
+                         "username":  "VerifywithAION",
+                         "url":  "https://github.com/VerifywithAION"
+                     },
+    "links":  {
+                  "github":  "https://github.com/CodeDeityX",
+                  "organization":  "https://github.com/VerifywithAION",
+                  "email":  "mailto:israelhernandezpin@gmail.com"
+              },
+    "targets":  [
+                    "AI Data Annotator",
+                    "AI Training Contributor",
+                    "AI Response Evaluator",
+                    "AI Quality Reviewer",
+                    "AI Operations Assistant",
+                    "Data Quality Associate",
+                    "Junior Quality Assurance Analyst",
+                    "Technical Documentation Assistant",
+                    "Research Data Reviewer",
+                    "Repository Operations Assistant"
+                ],
+    "featuredProjects":  [
+                             {
+                                 "name":  "AION Guard Lite",
+                                 "repository":  "https://github.com/VerifywithAION/aion-guard-lite",
+                                 "caseStudy":  "./case-studies/aion-guard-lite.md"
+                             },
+                             {
+                                 "name":  "AION Proof Lab",
+                                 "repository":  "https://github.com/VerifywithAION/aion-proof-lab",
+                                 "caseStudy":  "./case-studies/aion-proof-lab.md"
+                             },
+                             {
+                                 "name":  "AION ICLI",
+                                 "repository":  "https://github.com/VerifywithAION/aion-icli",
+                                 "caseStudy":  "./case-studies/aion-icli.md"
+                             }
+                         ]
+}
