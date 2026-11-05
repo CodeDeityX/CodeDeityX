@@ -75,6 +75,20 @@ Designed and published a reproducible R1-R3 adversarial harness to evaluate Niri
 
 ---
 
+### Applied Security Research - BuzzShield x AION
+
+**Security Intelligence Integration | Conditional Exploitability | Pre-Execution Governance**
+
+Contributed to a scoped research and integration workflow linking BuzzShield-originated security signals with AION/Wallet Guard governance. The work normalized upstream risk findings, evaluated action and deployment context, and produced structured ALLOW / WARN / BLOCK-style decisions supported by evidence-oriented receipts.
+
+**Research focus:** Tested exploit-derived risk scenarios, including Huma and Wasabi case inputs, and explored the Reserve L1b-1089 conditional-governance pattern: distinguishing a code-level risk finding from whether the deployment state satisfies the conditions needed for exploitation.
+
+**Evidence and boundaries:** BuzzShield publicly references Wallet Guard (AION) as its pre-execution governance component. AION public documentation describes a Buzz-compatible import and an advisory live-adapter path. This is scoped integration and research work, not authorship of BuzzShield, an independently verified vulnerability discovery, a bounty award, or proof of universal production enforcement.
+
+[BuzzShield public architecture](https://github.com/buzzbysolcex/buzz-bd-agent/blob/main/README.md) | [AION Buzz-compatible import](https://github.com/VerifywithAION/aion-finops-guard-lite/blob/main/docs/evidence/domain/BUZZ_COMPATIBLE_IMPORT_EXECUTION_PROOF_V1.md) | [AION live-adapter evidence](https://github.com/VerifywithAION/aion-finops-guard-lite/blob/main/docs/evidence/domain/BUZZ_LIVE_ADAPTER_EXECUTION_PROOF_V1.md)
+
+---
+
 ### AION Guard Lite
 
 **Pre-execution governance for proposed AI and software actions.**
