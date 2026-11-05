@@ -1,24 +1,56 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Aldo Israel Hernandez professional profile banner" width="100%">
+  <img src="./assets/code-deityx-research-banner.svg" alt="CodeDeityX — independent security research, AI governance and adversarial testing" width="100%">
 </p>
 
 <h1 align="center">Aldo Israel Hernandez</h1>
 
 <p align="center">
-  <strong>Independent Security Research | AI Governance | Adversarial Testing | Pre-Execution Security</strong>
+  <strong>Independent Security Researcher · AI Governance · Adversarial Testing</strong>
 </p>
 
 <p align="center">
-  Building disciplined, evidence-backed workflows for frontier AI systems.
+  Security research for AI agents and high-consequence execution systems.<br>
+  <sub>Authorization boundaries · Fail-closed behavior · Evidence-backed verification</sub>
 </p>
 
 <p align="center">
-  <a href="mailto:israelhernandezpin@gmail.com">Email</a> |
-  <a href="https://github.com/VerifywithAION">Verify with AION</a> |
-  <a href="#selected-work">Selected Work</a> |
-  <a href="#open-to-work">Open to Work</a>
+  <a href="https://github.com/nirium-protocol/nirium/pull/98"><img alt="NIRIUM — credited research" src="https://img.shields.io/badge/NIRIUM-Credited%20Research-106b57?style=flat-square"></a>
+  <a href="https://github.com/buzzbysolcex/buzz-bd-agent/blob/main/README.md"><img alt="BuzzShield and AION — public architecture reference" src="https://img.shields.io/badge/BuzzShield%20%2B%20AION-Architecture%20Reference-a27c35?style=flat-square"></a>
+  <a href="https://github.com/VerifywithAION"><img alt="Verify with AION — research organization" src="https://img.shields.io/badge/AION-Governed%20Execution-35455b?style=flat-square"></a>
 </p>
 
+<p align="center">
+  <a href="#research-highlights">Research Highlights</a> &nbsp;·&nbsp;
+  <a href="#selected-work">Projects</a> &nbsp;·&nbsp;
+  <a href="#open-to-work">Open to Work</a> &nbsp;·&nbsp;
+  <a href="mailto:israelhernandezpin@gmail.com">Contact</a>
+</p>
+
+<a id="research-highlights"></a>
+
+<h2 align="center">Selected Research Highlights</h2>
+<p align="center"><sub>Public evidence first. Clear technical limits. No unsupported production or audit claims.</sub></p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 / NIRIUM PROTOCOL</h3>
+      <p><strong>Independent adversarial security research</strong><br><sub>Stellar · x402 · Pre-sign policy controls</sub></p>
+      <p>Designed and published a reproducible R1–R3 test harness. NIRIUM maintainers independently reran it and explicitly credited the research in merged PR #98.</p>
+      <p><strong>170/170</strong> upstream tests · <strong>35/35</strong> adapted G1 assertions (maintainer reproduction)</p>
+      <p><a href="https://github.com/nirium-protocol/nirium/pull/98">Upstream credit and results</a> · <a href="./case-studies/nirium-adversarial-research.md">Case study</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 / BUZZSHIELD × AION</h3>
+      <p><strong>Security intelligence meets execution governance</strong><br><sub>Risk context · Wallet Guard · Decision receipts</sub></p>
+      <p>Researched and documented the scoped path from upstream security signals to AION policy evaluation, including a Buzz-compatible import and advisory live-adapter design.</p>
+      <p><strong>Public architecture reference</strong> · <strong>Documented integration path</strong></p>
+      <p><a href="https://github.com/buzzbysolcex/buzz-bd-agent/blob/main/README.md">Public architecture</a> · <a href="./case-studies/buzzshield-aion-governance.md">Case study</a></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>NIRIUM: L01/L02 remain unresolved. BuzzShield × AION: scoped research and integration evidence, not a completed security audit or universal production enforcement.</sub></p>
 ---
 
 ## Professional Profile
