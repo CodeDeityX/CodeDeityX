@@ -5,7 +5,7 @@
 <h1 align="center">Aldo Israel Hernandez</h1>
 
 <p align="center">
-  <strong>AI-Assisted Technical Operations | AI Evaluation | Quality Assurance | Pre-Execution Governance</strong>
+  <strong>Independent Security Research | AI Governance | Adversarial Testing | Pre-Execution Security</strong>
 </p>
 
 <p align="center">
@@ -60,6 +60,20 @@ I am currently enrolled in a **52-Week AI Engineering Bootcamp** while developin
 <a id="selected-work"></a>
 
 ## Selected Work
+
+### Featured Open-Source Contribution - Nirium Protocol
+
+**Independent Security Research | Stellar/x402 | Adversarial Testing**
+
+Designed and published a reproducible R1-R3 adversarial harness to evaluate Nirium/x402 agent-side pre-sign policy behavior: exact authorization binding, stale-policy decisions, fail-closed outcomes, and signer-boundary limitations.
+
+**Independently reproduced by Nirium:** The maintainers credited Aldo Israel Hernandez (@CodeDeityX) in merged PR #98. Their documented reproduction reported 170/170 upstream tests and 35/35 adapted G1 assertions passing.
+
+**Scope:** Independent testing, not authorship of the Nirium SDK hook. L01 pending-capacity reservation and L02 raw-signer bypass remain unresolved. No completed KINEGuard-to-Nirium integration is claimed.
+
+[Official upstream credit - PR #98](https://github.com/nirium-protocol/nirium/pull/98) | [Reproducible harness](https://github.com/CodeDeityX/nirium-96-agent-policy-harness) | [SDK acknowledgment](https://github.com/nirium-protocol/nirium-core/blob/main/packages/sdk/README.md#pre-sign-policy-hook-experimental)
+
+---
 
 ### AION Guard Lite
 
