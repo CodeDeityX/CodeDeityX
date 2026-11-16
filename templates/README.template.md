@@ -19,6 +19,11 @@
   <a href="#open-to-work">Open to Work</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/nirium-protocol/nirium/pull/241"><img alt="Niriumtober 2026 — Official Builder Recognition" src="https://raw.githubusercontent.com/nirium-protocol/nirium/36efd66b29d257943172f6fa1cdbb4d788832063/community/niriumtober/badges/codedeityx-builder.png" width="180"></a>
+</p>
+<p align="center"><strong>Niriumtober 2026 — Official Builder Recognition</strong> · <a href="https://github.com/nirium-protocol/nirium/issues/234">Evidence submission</a></p>
+
 ---
 
 ## Professional Profile

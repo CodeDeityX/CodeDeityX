@@ -32,6 +32,10 @@ NIRIUM's maintainers credited the work in merged **[PR #98](https://github.com/n
 
 These are the maintainers' reproduced results, **not** claims of certification, a formal audit or deployed on-chain enforcement.
 
+## External Recognition — Niriumtober 2026
+
+CodeDeityX received the official Niriumtober 2026 Builder recognition following documented Nirium C04 evidence. The submission covers five reproduced experimental cases and remains bounded by testnet and simulated-ledger limitations; independent verification is reported separately from production capability. See the [recognition PR #241](https://github.com/nirium-protocol/nirium/pull/241), [evidence issue #234](https://github.com/nirium-protocol/nirium/issues/234), [previous research PR #98](https://github.com/nirium-protocol/nirium/pull/98), and [public reproducible harness](https://github.com/CodeDeityX/nirium-96-agent-policy-harness).
+
 ## Important boundaries
 
 - **L01:** Pending-capacity reservation was not solved; concurrent requests can observe the same remaining capacity.

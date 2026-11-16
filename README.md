@@ -15,9 +15,12 @@
 
 <p align="center">
   <a href="https://github.com/nirium-protocol/nirium/pull/98"><img alt="NIRIUM — credited research" src="https://img.shields.io/badge/NIRIUM-Credited%20Research-106b57?style=flat-square"></a>
+  <a href="https://github.com/nirium-protocol/nirium/pull/241"><img alt="Niriumtober 2026 — Official Builder Recognition" src="https://raw.githubusercontent.com/nirium-protocol/nirium/36efd66b29d257943172f6fa1cdbb4d788832063/community/niriumtober/badges/codedeityx-builder.png" width="180"></a>
   <a href="https://github.com/buzzbysolcex/buzz-bd-agent/blob/main/README.md"><img alt="BuzzShield and AION — public architecture reference" src="https://img.shields.io/badge/BuzzShield%20%2B%20AION-Architecture%20Reference-a27c35?style=flat-square"></a>
   <a href="https://github.com/VerifywithAION"><img alt="Verify with AION — research organization" src="https://img.shields.io/badge/AION-Governed%20Execution-35455b?style=flat-square"></a>
 </p>
+
+<p align="center"><strong>Niriumtober 2026 — Official Builder Recognition</strong> · <a href="https://github.com/nirium-protocol/nirium/issues/234">Evidence submission</a></p>
 
 <p align="center">
   <a href="#research-highlights">Research Highlights</a> &nbsp;·&nbsp;
